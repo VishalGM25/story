@@ -1,0 +1,2 @@
+This is chapter one txt file in story 
+To use this to learn git version
